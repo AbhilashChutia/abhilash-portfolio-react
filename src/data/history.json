@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Master of Computer Applications",
+        "organisation": "Tezpur University",
+        "startDate": "Aug, 2023",
+        "endDate": "June, 2025",
+        "experiences": ["Malware Detection Chatbot", "Pharmacy Webservice"],
+        "imageSrc": "history/tezu.png"
+    },
+    {
+        "role": "Cybersecurity Intern",
+        "organisation": "Prodigy InfoTech",
+        "startDate": "September, 2024",
+        "endDate": "October, 2024",
+        "experiences": ["Ceaser Cipher Tool", "Network Analyzer Tool"],
+        "imageSrc": "history/prodigy.png"
+    },
+    {
+        "role": "Bachelor of Computer Applications",
+        "organisation": "Jagannath Barooah College",
+        "startDate": "August, 2020",
+        "endDate": "Jun, 2023",
+        "experiences": ["University Management Website", "Tourism WEbsite"],
+        "imageSrc": "history/jb.png"
+    }
+]
