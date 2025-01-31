@@ -15,7 +15,9 @@ export const Hero = () => {
                     Reach out if you'd like to learn more!
                 </p>
                 <a
-                    href="mailto:abhilashchutia1999@gmail.com"
+                    href="https://mail.google.com/mail/?view=cm&fs=1&to=abhilashchutia1999@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className={styles.contactBtn}
                 >
                     Contact Me

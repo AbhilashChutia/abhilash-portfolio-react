@@ -16,7 +16,11 @@ export const Contact = () => {
                         src={getImageUrl("contact/emailIcon.png")}
                         alt="Email icon"
                     />
-                    <a href="mailto:abhilashchutia1999@gmail.com">
+                    <a
+                        href="https://mail.google.com/mail/?view=cm&fs=1&to=abhilashchutia1999@gmail.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
                         abhilashchutia1999@email.com
                     </a>
                 </li>
