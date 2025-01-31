@@ -1,6 +1,6 @@
 # 🚀 Portfolio Website
 
-Welcome to my **personal portfolio website**! This project showcases my skills, projects, and experience as a **full-stack developer**. Built with **React** and **Vite**, and deployed using **GitHub Pages**.
+Welcome to my **personal portfolio website**! This project showcases my skills, projects, and experience as a **front-end developer**. Built with **React** and **Vite**, and deployed using **GitHub Pages**.
 
 ## 🔥 Tech Stack
 
