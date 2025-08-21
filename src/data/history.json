@@ -4,7 +4,11 @@
         "organisation": "Tezpur University",
         "startDate": "Aug, 2023",
         "endDate": "June, 2025",
-        "experiences": ["Malware Detection Chatbot", "Pharmacy Webservice"],
+        "experiences": [
+            "Summarization and Contextual Exploration of Medical Articles",
+            "Malware Detection Chatbot",
+            "Pharmacy Webservice"
+        ],
         "imageSrc": "history/tezu.png"
     },
     {
@@ -20,7 +24,7 @@
         "organisation": "Jagannath Barooah College",
         "startDate": "August, 2020",
         "endDate": "Jun, 2023",
-        "experiences": ["University Management Website", "Tourism WEbsite"],
+        "experiences": ["University Management Website", "Tourism Website"],
         "imageSrc": "history/jb.png"
     }
 ]

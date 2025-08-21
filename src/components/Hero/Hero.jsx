@@ -9,8 +9,10 @@ export const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Abhilash</h1>
                 <p className={styles.description}>
-                    I'm a full-stack developer with 1.5 years of experience
-                    using React and NodeJS. <br /> I also have 3 years of
+                    MCA - Tezpur Univrsity [2025] <br />
+                    <br />
+                    I'm a full-stack developer with 2 years of personal
+                    experience using React and NextJs and also have 3 years of
                     experience in WAMP/LAMP stack. <br />
                     Reach out if you'd like to learn more!
                 </p>
