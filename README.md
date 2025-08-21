@@ -4,18 +4,10 @@ Welcome to my **personal portfolio website**! This project showcases my skills, 
 
 ## Tech Stack
 
-- **React** ?? - A powerful JavaScript library for building user interfaces
-- **Vite** ? - A fast and modern frontend build tool for React
-- **CSS Modules** ?? - Scoped and maintainable styles
-- **GitHub Pages** ?? - Simple and free hosting for static websites
-
-## Features
-
-? **Responsive Design** - Optimized for all screen sizes<br>
-? **Fast Performance** - Leveraging Vite's blazing-fast build speed<br>
-? **Clean UI & UX** - Simple, modern, and visually appealing<br>
-? **SEO Optimized** - Structured for better search engine visibility<br>
-? **Easy Deployment** - Hosted on GitHub Pages with CI/CD
+- **React**  - A powerful JavaScript library for building user interfaces
+- **Vite**  - A fast and modern frontend build tool for React
+- **CSS Modules**  - Scoped and maintainable styles
+- **GitHub Pages**  - Simple and free hosting for static websites
 
 ## Getting Started
 
@@ -55,14 +47,4 @@ To deploy your **Vite React** project on GitHub Pages, follow these steps:
    ```sh
    npm run build && npm run deploy
    ```
-
-?? Your portfolio is now live at `https://yourusername.github.io/your-repo/`!
-
-## Connect with Me
-?? Email: abhilashchutia1999@gmail.com  
-?? LinkedIn: [Your Profile](https://linkedin.com/in/abhilash-chutia)  
-
----
-
-?? **Built with love using React, Vite, and GitHub Pages!**
 
